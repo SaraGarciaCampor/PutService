@@ -1,0 +1,6 @@
+org/sara/putservice/controller/CarController.class
+org/sara/putservice/PutServiceApplication.class
+org/sara/putservice/service/CarService.class
+org/sara/putservice/repositories/CarRepository.class
+org/sara/putservice/entities/Car.class
+org/sara/putservice/configuration/Mapper.class
